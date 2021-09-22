@@ -17,4 +17,4 @@ Considerando che continuo a scordarmi come fare questa cosa, dato che configuro 
 2. Cercate le opzioni di lingua ![Step 0](step0.png)
 3. Aprite le opzioni tastiera ![Step 3](step1.png)
 4. Selezionate il nuovo layout ![Step 2](step2.png)
-5. Fate finalmente pace col tastierino numerico! ::smile:: ![Step 3](step3.png)
+5. Fate finalmente pace col tastierino numerico! :smile:
